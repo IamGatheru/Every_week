@@ -1,0 +1,1 @@
+This folder contains the CatPhotoApp code written while following the freecodecamp.org "Responsive web Design" course
